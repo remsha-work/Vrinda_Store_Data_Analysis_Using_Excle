@@ -1,0 +1,9 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Excel temporary files
+~$*.xlsx
+
+# VS Code settings
+.vscode/
